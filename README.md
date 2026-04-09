@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/neshathranjan/Leetcode_questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/neshathranjan/Leetcode_questions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/neshathranjan/Leetcode_questions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
