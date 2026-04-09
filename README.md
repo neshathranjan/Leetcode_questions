@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/neshathranjan/Leetcode_questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/neshathranjan/Leetcode_questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/neshathranjan/Leetcode_questions/tree/master/0326-power-of-three) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/neshathranjan/Leetcode_questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/neshathranjan/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neshathranjan/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/neshathranjan/Leetcode_questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/neshathranjan/Leetcode_questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/neshathranjan/Leetcode_questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/neshathranjan/Leetcode_questions/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/neshathranjan/Leetcode_questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
 | ------- |
