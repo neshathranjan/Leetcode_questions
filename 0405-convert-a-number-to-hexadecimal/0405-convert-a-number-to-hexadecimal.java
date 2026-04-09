@@ -7,7 +7,7 @@ class Solution {
 
         while (num != 0) {
             sb.append(map[num & 15]);  
-            num >>>= 4;            
+            num >>>= 4;           
         }
 
         return sb.reverse().toString();
