@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/neshathranjan/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/neshathranjan/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neshathranjan/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/neshathranjan/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/neshathranjan/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neshathranjan/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/neshathranjan/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neshathranjan/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/neshathranjan/Leetcode_questions/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
