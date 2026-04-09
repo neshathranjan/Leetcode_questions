@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/neshathranjan/Leetcode_questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/neshathranjan/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/neshathranjan/Leetcode_questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/neshathranjan/Leetcode_questions/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/neshathranjan/Leetcode_questions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/neshathranjan/Leetcode_questions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/neshathranjan/Leetcode_questions/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/neshathranjan/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/neshathranjan/Leetcode_questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
