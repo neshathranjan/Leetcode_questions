@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/neshathranjan/Leetcode_questions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/neshathranjan/Leetcode_questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/neshathranjan/Leetcode_questions/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/neshathranjan/Leetcode_questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/neshathranjan/Leetcode_questions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
