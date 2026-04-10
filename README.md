@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/neshathranjan/Leetcode_questions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/neshathranjan/Leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/neshathranjan/Leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/neshathranjan/Leetcode_questions/tree/master/0997-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/neshathranjan/Leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/neshathranjan/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/neshathranjan/Leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Tree
 |  |
 | ------- |
