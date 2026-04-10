@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/neshathranjan/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/neshathranjan/Leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/neshathranjan/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/neshathranjan/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neshathranjan/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neshathranjan/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/neshathranjan/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 ## Recursion
 |  |
 | ------- |
