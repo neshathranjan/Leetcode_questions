@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/neshathranjan/Leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/neshathranjan/Leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/neshathranjan/Leetcode_questions/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neshathranjan/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/neshathranjan/Leetcode_questions/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/neshathranjan/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/neshathranjan/Leetcode_questions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/neshathranjan/Leetcode_questions/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
