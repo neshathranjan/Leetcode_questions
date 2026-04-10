@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neshathranjan/Leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/neshathranjan/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/neshathranjan/Leetcode_questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neshathranjan/Leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/neshathranjan/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/neshathranjan/Leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/neshathranjan/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neshathranjan/Leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Database
 |  |
 | ------- |
