@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/neshathranjan/Leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1672-richest-customer-wealth](https://github.com/neshathranjan/Leetcode_questions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/neshathranjan/Leetcode_questions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/neshathranjan/Leetcode_questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/neshathranjan/Leetcode_questions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
