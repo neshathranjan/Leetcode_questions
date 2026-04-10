@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/neshathranjan/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neshathranjan/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/neshathranjan/Leetcode_questions/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/neshathranjan/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/neshathranjan/Leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/neshathranjan/Leetcode_questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/neshathranjan/Leetcode_questions/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neshathranjan/Leetcode_questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/neshathranjan/Leetcode_questions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/neshathranjan/Leetcode_questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/neshathranjan/Leetcode_questions/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
