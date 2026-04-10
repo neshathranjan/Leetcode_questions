@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/neshathranjan/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/neshathranjan/Leetcode_questions/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/neshathranjan/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/neshathranjan/Leetcode_questions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Simulation
 |  |
 | ------- |
