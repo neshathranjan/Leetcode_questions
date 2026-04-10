@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/neshathranjan/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/neshathranjan/Leetcode_questions/tree/master/0997-find-the-town-judge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/neshathranjan/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neshathranjan/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/neshathranjan/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0997-find-the-town-judge](https://github.com/neshathranjan/Leetcode_questions/tree/master/0997-find-the-town-judge) |
 ## Tree
 |  |
 | ------- |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0912-sort-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/neshathranjan/Leetcode_questions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
