@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/neshathranjan/Leetcode_questions/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/neshathranjan/Leetcode_questions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/neshathranjan/Leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/neshathranjan/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/neshathranjan/Leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Database
 |  |
 | ------- |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/neshathranjan/Leetcode_questions/tree/master/0997-find-the-town-judge) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/neshathranjan/Leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
