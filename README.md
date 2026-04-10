@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neshathranjan/Leetcode_questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/neshathranjan/Leetcode_questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3827-count-monobit-integers](https://github.com/neshathranjan/Leetcode_questions/tree/master/3827-count-monobit-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/neshathranjan/Leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/neshathranjan/Leetcode_questions/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
