@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2460-apply-operations-to-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/neshathranjan/Leetcode_questions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2460-apply-operations-to-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/neshathranjan/Leetcode_questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/neshathranjan/Leetcode_questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
