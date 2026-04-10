@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/neshathranjan/Leetcode_questions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/neshathranjan/Leetcode_questions/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/neshathranjan/Leetcode_questions/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/neshathranjan/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/neshathranjan/Leetcode_questions/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/neshathranjan/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
