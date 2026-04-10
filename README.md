@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/neshathranjan/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/neshathranjan/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neshathranjan/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/neshathranjan/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -158,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -214,4 +218,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/neshathranjan/Leetcode_questions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/neshathranjan/Leetcode_questions/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/neshathranjan/Leetcode_questions/tree/master/0596-classes-with-at-least-5-students) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
