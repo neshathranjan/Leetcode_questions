@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/neshathranjan/Leetcode_questions/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/neshathranjan/Leetcode_questions/tree/master/1572-matrix-diagonal-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/neshathranjan/Leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,9 +274,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/neshathranjan/Leetcode_questions/tree/master/0997-find-the-town-judge) |
+| [1584-min-cost-to-connect-all-points](https://github.com/neshathranjan/Leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Greedy
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/neshathranjan/Leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/neshathranjan/Leetcode_questions/tree/master/1323-maximum-69-number) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/neshathranjan/Leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/neshathranjan/Leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
