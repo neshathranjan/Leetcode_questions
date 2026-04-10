@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/neshathranjan/Leetcode_questions/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/neshathranjan/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/neshathranjan/Leetcode_questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/neshathranjan/Leetcode_questions/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/neshathranjan/Leetcode_questions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/neshathranjan/Leetcode_questions/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
